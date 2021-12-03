@@ -1,0 +1,207 @@
+Num,Variable,Etiqueta,Tipo,Longitud
+1,folio,Folio de la encuesta,Numérico,5
+2,trim,Trimestre de aplicación,Numérico,3
+3,unidad,Unidad (Día-año-mes),Numérico,6
+4,region,Región de muestreo,Numérico,3
+5,ciudad,Ciudad de muestreo,Numérico,3
+6,punto,Punto de muestreo,Numérico,3
+7,turno,Turno,Numérico,3
+8,sexo,Sexo,Numérico,3
+9,edad,¿Cuántos años cumplidos tiene usted?,Numérico,3
+10,nacio,¿En qué país nació usted?,Numérico,3
+11,origen,¿Es usted de origen mexicano o México-americano?,Numérico,3
+12,viveloc,¿Vive usted aquí en_________?,Numérico,3
+13,paisvive,¿En qué país vive?,Numérico,3
+14,razon,¿A cuál de las siguientes razones se debe su visita a la zona fronteriza:,Numérico,3
+15,trabaja,¿Tiene usted trabajo en su lugar de procedencia?,Numérico,3
+16,regresa,¿Tiene usted alguna fecha comprometida para su regreso?,Numérico,3
+17,p1,¿Viene usted solo(a) o acompañado(a) de un familiar o conocido(a) en este viaje?,Numérico,3
+18,p1_1,¿Cuántas personas le acompañan?,Numérico,3
+19,p1_2,¿Cuántas de ellas son menores de 15 años?,Numérico,3
+20,p1_2_1,¿Son sus hijos(as)?,Numérico,3
+21,p1_2_2,¿Cuál es la principal razón por la que le acompañan sus hijos(as) menores de 15 años en este viaje?,Numérico,3
+22,p1_3,"De las personas que le acompañan, ¿cuántas son sus padres, hermanos(as), hijos(as), esposa(o) o pareja?",Numérico,3
+23,p2,¿Usted aprobó o cursó algún año en la escuela?,Numérico,3
+24,p2_1,"¿El último año que aprobó fue en México, en Estados Unidos o en otro país?",Numérico,3
+25,p2_1_1a,¿Cuál fue el último año de escuela que usted aprobó? Año,Numérico,3
+26,p2_1_1n,¿Cuál fue el último año de escuela que usted aprobó? Nivel,Numérico,3
+27,p2_1_2a,¿Cuál fue el último año de escuela que usted aprobó? Año,Numérico,3
+28,p2_1_2n,¿Cuál fue el último año de escuela que usted aprobó? Nivel,Numérico,3
+29,p3,¿Sabe usted leer y escribir un recado?,Numérico,3
+30,p4,¿Habla usted alguna lengua indígena?,Numérico,3
+31,p4_1,"De acuerdo con su historia, cultura y tradición, ¿pertenece usted a un pueblo o comunidad indígena?",Numérico,3
+32,p4_2,"De acuerdo con su historia, cultura y tradición, ¿se considera usted afrodescendiente?",Numérico,3
+33,p5,¿Habla usted inglés?,Numérico,3
+34,p5_1,¿Qué tan bien habla el inglés?,Numérico,3
+35,p6,(Situación Conyugal) ¿Actualmente usted...,Numérico,3
+36,p7,"En su casa, ¿es usted el jefe o la jefa del hogar?",Numérico,3
+37,p7_1,"Entonces me puede decir, ¿quién es el jefe o la jefa de su hogar?",Numérico,3
+38,p8,"Incluyéndose usted, ¿cuántas personas en total viven en su casa?",Numérico,3
+39,p8_1,"Incluyéndose usted, ¿cuántas personas trabajan y aportan dinero para el gasto de su hogar?",Numérico,3
+40,p8_2,¿Es usted el principal sostén económico de su hogar?,Numérico,3
+41,p9p,"¿En qué país, estado, municipio y localidad nació usted? País",Numérico,3
+42,p9e,"¿En qué país, estado, municipio y localidad nació usted? Estado",Numérico,3
+43,p9m,"¿En qué país, estado, municipio y localidad nació usted? Municipio",Numérico,5
+44,p9u,"¿En qué país, estado, municipio y localidad nació usted? Urbano o no urbano",Numérico,3
+45,p9_1,¿El lugar donde vive es el mismo donde usted nació?,Numérico,3
+46,p9_2p,"Entonces, ¿en qué estado o país, municipio y localidad vive usted? País",Numérico,3
+47,p9_2e,"Entonces, ¿en qué estado o país, municipio y localidad vive usted? Estado",Numérico,3
+48,p9_2m,"Entonces, ¿en qué estado o país, municipio y localidad vive usted? Municipio",Numérico,5
+49,p9_2u,"Entonces, ¿en qué estado o país, municipio y localidad vive usted? Urbano o no urbano",Numérico,3
+50,p9_2u_b,"Entonces, ¿en qué estado o país, municipio y localidad vive usted? Urbano o no urbano (Actualizado al año 2015)",Numérico,3
+51,p10,"En los últimos 12 meses, ¿usted o alguna persona de su hogar ha recibido algún apoyo o programa social del gobierno mexicano en el lugar donde vive?",Numérico,3
+52,p10_1_0_1,¿Cuál(es) apoyo(s) o programa(s)? PROSPERA (antes OPORTUNIDADES O PROGRESA),Numérico,3
+53,p10_1_0_2,¿Cuál(es) apoyo(s) o programa(s)? PROCAMPO,Numérico,3
+54,p10_1_0_3,¿Cuál(es) apoyo(s) o programa(s)? Empleo Temporal,Numérico,3
+55,p10_1_0_4,¿Cuál(es) apoyo(s) o programa(s)? Atención a Jornaleros Agrícolas,Numérico,3
+56,p10_1_0_5,¿Cuál(es) apoyo(s) o programa(s)? Pensión para Adultos Mayores o “65 y más”,Numérico,3
+57,p10_1_0_6,¿Cuál(es) apoyo(s) o programa(s)? Seguro de Vida para Jefas de Familia,Numérico,3
+58,p10_1_0_7,¿Cuál(es) apoyo(s) o programa(s)? Leche LICONSA,Numérico,3
+59,p10_1_0_8,¿Cuál(es) apoyo(s) o programa(s)? Otros programas sociales,Numérico,3
+60,p10_1_1c,"Aproximadamente, ¿cuánto dinero ha recibido usted o la persona de su hogar al mes por ese(os) programa(s) social(es)? Cantidad",Numérico,7
+61,p10_1_1u,"Aproximadamente, ¿cuánto dinero ha recibido usted o la persona de su hogar al mes por ese(os) programa(s) social(es)? Unidad",Numérico,3
+62,p10_2_1,"En su localidad de residencia, ¿los(las) habitantes reciben alguno de los siguientes apoyos de gobierno o programas sociales: Tiendas LICONSA?",Numérico,3
+63,p10_2_2,"En su localidad de residencia, ¿los(las) habitantes reciben alguno de los siguientes apoyos de gobierno o programas sociales: Programa 3x1?",Numérico,3
+64,p10_2_3,"En su localidad de residencia, ¿los(las) habitantes reciben alguno de los siguientes apoyos de gobierno o programas sociales: Fondo de Aportaciones para la Infraestructura Social (FAIS)?",Numérico,3
+65,p10_2_4,"En su localidad de residencia, ¿los(las) habitantes reciben alguno de los siguientes apoyos de gobierno o programas sociales: Tienda DICONSA?",Numérico,3
+66,p10_2_5,"En su localidad de residencia, ¿los(las) habitantes reciben alguno de los siguientes apoyos de gobierno o programas sociales: otros programas sociales",Numérico,3
+67,p11,¿Ha trabajado usted en el lugar donde vive o en algún lugar cercano?,Numérico,3
+68,p11_1,¿Por qué no ha trabajado en ese lugar?,Numérico,3
+69,p11_2,"Durante los 30 días anteriores al inicio de este viaje, ¿trabajó usted en alguno de esos lugares?",Numérico,3
+70,p11_3,No trabajó:,Numérico,3
+71,p11_3_1c,¿Cuánto tiempo buscó trabajo? Cantidad,Numérico,3
+72,p11_3_1t,¿Cuánto tiempo buscó trabajo? Tiempo,Numérico,3
+73,p11_4,¿Cuál fue la razón principal por la que dejó su último trabajo?,Numérico,3
+74,p12_1,¿Cuál es el nombre del oficio o profesión que desempeñó en ese trabajo?,Numérico,3
+75,p12_2,"De la siguiente lista, ¿qué puesto o posición tenía usted en ese trabajo:",Numérico,3
+76,p12_3,"Al momento de ser empleado(a), ¿firmó contrato de trabajo con el(la) patrón(a) o empresa?",Numérico,3
+77,p12_4,"En ese trabajo que desempeñó, ¿tenía alguna prestación o beneficio?",Numérico,3
+78,p12_4_1,(Situación de actividad) ¿Cuál?,Numérico,3
+79,p12_5,¿Cuántas horas diarias trabajó en promedio?,Numérico,3
+80,p12_6,¿Cuántos días a la semana?,Numérico,3
+81,p12_7c,¿Cuánto ganaba en ese trabajo? Cantidad,Numérico,7
+82,p12_7u,¿Cuánto ganaba en ese trabajo? Unidad,Numérico,3
+83,p12_7t,¿Cuánto ganaba en ese trabajo? Tiempo,Numérico,3
+84,p12_7_1,"¿El pago que recibió por su trabajo fue igual, mayor o menor al que recibieron otras personas que hicieron el mismo tipo de trabajo?",Numérico,3
+85,p12_8,¿Recibió algún curso de capacitación en la empresa donde trabajó?,Numérico,3
+86,p12_9,"Aproximadamente, ¿cuántas personas, incluyéndose usted, laboraban en el establecimiento donde trabajó?",Numérico,3
+87,p12_10,"¿A qué se dedicaba o qué producía el establecimiento, negocio, fábrica o empresa donde trabajó?",Numérico,3
+88,p12_11,¿El lugar donde realizó sus actividades laborales es:,Numérico,3
+89,p12_12,"Principalmente, ¿de qué manera aprendió el oficio al que se dedicó?",Numérico,3
+90,p12_13_1,"En el trabajo que desempeñó, ¿se encontró usted en alguna de las siguientes situaciones: pago retardado del salario?",Numérico,3
+91,p12_13_2,"En el trabajo que desempeñó, ¿se encontró usted en alguna de las siguientes situaciones: trabajo de horas extras sin goce de sueldo?",Numérico,3
+92,p12_13_3,"En el trabajo que desempeñó, ¿se encontró usted en alguna de las siguientes situaciones: despido por razón del embarazo?",Numérico,3
+93,p12_13_4,"En el trabajo que desempeñó, ¿se encontró usted en alguna de las siguientes situaciones: discriminación laboral por ser extranjero(a)?",Numérico,3
+94,p12_13_5,"En el trabajo que desempeñó, ¿se encontró usted en alguna de las siguientes situaciones: trabajó los 7 días de la semana sin derecho a un día de descanso?",Numérico,3
+95,p12_13_6,"En el trabajo que desempeñó, ¿se encontró usted en alguna de las siguientes situaciones: trabajó en días feriados sin compensación?",Numérico,3
+96,p12_13_7,"En el trabajo que desempeñó, ¿se encontró usted en alguna de las siguientes situaciones: no contar con equipo de protección ante riesgos laborales?",Numérico,3
+97,p12_14,"Durante su estancia en el lugar donde vive o en algún lugar cercano, ¿alguna vez le negaron un trabajo?",Numérico,3
+98,p12_14_1_1,¿Cree que se lo negaron por: su sexo(ser hombre o mujer)?,Numérico,3
+99,p12_14_1_2,¿Cree que se lo negaron por: su edad?,Numérico,3
+100,p12_14_1_3,¿Cree que se lo negaron por: su apariencia (la manera en que se ve)?,Numérico,3
+101,p12_14_1_4,¿Cree que se lo negaron por: su tono de piel?,Numérico,3
+102,p12_14_1_5,¿Cree que se lo negaron por: su acento al hablar?,Numérico,3
+103,p12_14_1_6,¿Cree que se lo negaron por: ser migrante en ese lugar?,Numérico,3
+104,p12_14_1_7,¿Cree que se lo negaron por: ser indígena?,Numérico,3
+105,p12_14_1_8,¿Cree que se lo negaron por: falta de experiencia?,Numérico,3
+106,p12_14_1_9,¿Cree que se lo negaron por: ser afrodescendiente?,Numérico,3
+107,p13,¿Por qué está saliendo de su lugar de origen en esta ocasión?,Numérico,3
+108,p13_1,"Durante su viaje del lugar donde vivía a la frontera, ¿recibió atención de salud ya sea por enfermedad, lesión o accidente?",Numérico,3
+109,p14,"En los últimos 12 meses, ¿cuántas veces ha llegado a ésta u otra ciudad fronteriza por la misma razón que en este viaje?",Numérico,3
+110,p15,¿Es la primera vez que viene a esta ciudad por la misma razón?,Numérico,3
+111,p15_1,¿En qué año la visitó la última vez por esta misma razón?,Numérico,4
+112,p16c,"Ahora, en esta ocasión, ¿cuánto tiempo piensa permanecer en esta ciudad? Cantidad",Numérico,3
+113,p16t,"Ahora, en esta ocasión, ¿cuánto tiempo piensa permanecer en esta ciudad? Tiempo",Numérico,3
+114,p16_1_1,¿Trae con usted los siguientes documentos: Matrícula Consular?,Numérico,3
+115,p16_1_2,¿Trae con usted los siguientes documentos: Credencial para votar con fotografía de México (IFE)?,Numérico,3
+116,p16_1_3,¿Trae con usted los siguientes documentos: Licencia para manejar en México?,Numérico,3
+117,p16_1_4,¿Trae con usted los siguientes documentos: Acta de nacimiento mexicana?,Numérico,3
+118,p16_1_5,¿Trae con usted los siguientes documentos: Pasaporte mexicano?,Numérico,3
+119,p16_1_6,¿Trae con usted los siguientes documentos: CURP?,Numérico,3
+120,p16_2,¿Tiene usted familiares o amistades en esta ciudad?,Numérico,3
+121,p16_3,"¿Dónde piensa pasar la noche, el día de hoy?",Numérico,3
+122,p16_4,¿Va a trabajar o buscar trabajo en esta ciudad?,Numérico,3
+123,p16_4_1,¿En qué actividad piensa usted trabajar?,Numérico,3
+124,p17,¿Piensa usted pasar a Estados Unidos?,Numérico,3
+125,p17_1,¿Piensa usted hacerlo en los próximos 30 días?,Numérico,3
+126,p17_2,¿Por cuál ciudad mexicana va usted a cruzar?,Numérico,9
+127,p17_3,"Principalmente, ¿por qué eligió esa ciudad para cruzar?",Numérico,3
+128,p18,"¿Contrató o contratará usted a alguna persona (coyote, pollero, guía, lanchero, patero) para que le guié al cruzar la frontera?",Numérico,3
+129,p18_1,¿Dónde hizo o hará el contacto con la persona que le guiará al cruzar la frontera?,Numérico,3
+130,p18_2c,¿Cuánto pagó o acordó pagar? Cantidad,Numérico,7
+131,p18_2u,¿Cuánto pagó o acordó pagar? Unidad,Numérico,3
+132,p19,"Principalmente, ¿por cuál de las siguientes razones cruzará usted al otro lado:",Numérico,3
+133,p20,"En su destino final, ¿tiene usted un trabajo ya asegurado?",Numérico,3
+134,p20_1,¿En qué actividad piensa usted trabajar en Estados Unidos?,Numérico,3
+135,p21,¿Se dirige a alguna ciudad en especial?,Numérico,3
+136,p21_1es,"¿A cuál estado, condado y ciudad se dirige? Estado",Numérico,3
+137,p21_1cn,"¿A cuál estado, condado y ciudad se dirige? Condado",Numérico,5
+138,p21_1cd,"¿A cuál estado, condado y ciudad se dirige? Ciudad",Numérico,10
+139,p21_2_1,¿Alguno de los siguientes familiares vive en esa ciudad: esposa(o) o pareja?,Numérico,3
+140,p21_2_2,¿Alguno de los siguientes familiares vive en esa ciudad: hijos(as) ?,Numérico,3
+141,p21_2_3,¿Alguno de los siguientes familiares vive en esa ciudad: padre y/o madre?,Numérico,3
+142,p21_2_4,¿Alguno de los siguientes familiares vive en esa ciudad: hermanos(as) ?,Numérico,3
+143,p21_2_5,¿Alguno de los siguientes familiares vive en esa ciudad: otro(s) familiares?,Numérico,3
+144,p21_3,"En su destino final, ¿tiene usted un lugar fijo donde llegar?",Numérico,3
+145,p22c,¿Cuánto tiempo piensa quedarse en Estados Unidos? Cantidad,Numérico,3
+146,p22t,¿Cuánto tiempo piensa quedarse en Estados Unidos? Tiempo,Numérico,3
+147,p23,¿Tiene documentos para cruzar?,Numérico,3
+148,p23_1,¿Cuál documento tiene?,Numérico,3
+149,p23_2,¿Este documento está vigente?,Numérico,3
+150,p23_3c,¿Desde cuándo lo tiene? Cantidad,Numérico,3
+151,p23_3t,¿Desde cuándo lo tiene? Tiempo,Numérico,3
+152,p24,¿Tiene documentos para trabajar?,Numérico,3
+153,p24_1,¿Cuál documento tiene?,Numérico,3
+154,p24_2,¿Este documento está vigente?,Numérico,3
+155,p24_3c,¿Desde cuándo lo tiene? Cantidad,Numérico,3
+156,p24_3t,¿Desde cuándo lo tiene? Tiempo,Numérico,3
+157,p25_1,"En el último año, ¿ha realizado algún trámite oficial con la finalidad de obtener documentos para: entrar a Estados Unidos?",Numérico,3
+158,p25_2,"En el último año, ¿ha realizado algún trámite oficial con la finalidad de obtener documentos para: trabajar en Estados Unidos?",Numérico,3
+159,p25_3,"En el último año, ¿ha realizado algún trámite oficial con la finalidad de obtener documentos para: quedarse a vivir allá?",Numérico,3
+160,p25_4,"En el último año, ¿ha realizado algún trámite oficial con la finalidad de obtener documentos para: otro?",Numérico,3
+161,p26,"En toda su vida, ¿cuántas veces ha cruzado a Estados Unidos para trabajar o buscar trabajo?",Numérico,3
+162,p26_1,¿En qué año fue la primera vez que cruzó a Estados Unidos a trabajar o buscar trabajo?,Numérico,4
+163,p26_2,"En esa primera ocasión, ¿usó usted algún tipo de documento para cruzar a Estados Unidos?",Numérico,3
+164,p27m,¿En qué mes y año fue la última vez que cruzó a Estados Unidos para trabajar o buscar trabajo? Mes,Numérico,3
+165,p27a,¿En qué mes y año fue la última vez que cruzó a Estados Unidos para trabajar o buscar trabajo? Año,Numérico,4
+166,p28,"Esa última vez, ¿por cuál ciudad mexicana cruzó usted?",Numérico,9
+167,p29,"En esa ocasión, ¿contrató usted a alguna persona (coyote, pollero, guía, lanchero, patero) para que le guiara al cruzar la frontera?",Numérico,3
+168,p30,"En esa ocasión, ¿usó usted algún tipo de documento para cruzar a Estados Unidos?",Numérico,3
+169,p31,"En esa última ocasión que cruzó a Estados Unidos, ¿llevaba usted algún documento para trabajar?",Numérico,3
+170,p32c,"En esa ocasión, ¿cuánto tiempo permaneció usted en Estados Unidos? Cantidad",Numérico,3
+171,p32t,"En esa ocasión, ¿cuánto tiempo permaneció usted en Estados Unidos? Tiempo",Numérico,3
+172,p33,¿En qué estado estuvo usted la mayor parte del tiempo?,Numérico,3
+173,p34,"En esa ocasión, ¿trabajó usted en Estados Unidos?",Numérico,3
+174,p35_1,¿Cuál es el nombre del oficio o profesión que desempeñó en ese trabajo?,Numérico,3
+175,p35_2,"¿A qué se dedicaba o qué producía el establecimiento, negocio, fábrica o empresa donde trabajó?",Numérico,3
+176,p36,"Principalmente, ¿por cuál razón regresó usted a México?",Numérico,3
+177,p37,"En general, ¿cómo considera usted su estado de salud?",Numérico,3
+178,p38_1,¿Está afiliado(a) a los servicios médicos de(l): Seguro Popular?,Numérico,3
+179,p38_2,¿Está afiliado(a) a los servicios médicos de(l): IMSS?,Numérico,3
+180,p38_3,¿Está afiliado(a) a los servicios médicos de(l): ISSSTE?,Numérico,3
+181,p38_4,¿Está afiliado(a) a los servicios médicos de(l): otra institución?,Numérico,3
+182,p39_1,¿Personal médico o algún(a) profesional de la salud le ha dicho que usted tiene: hipertensión (Presión Alta)?,Numérico,3
+183,p39_2,¿Personal médico o algún(a) profesional de la salud le ha dicho que usted tiene: diabetes (Problemas de Azúcar)?,Numérico,3
+184,p39_3,¿Personal médico o algún(a) profesional de la salud le ha dicho que usted tiene: colesterol (Problemas de grasas en sangre)?,Numérico,3
+185,p39_4,¿Personal médico o algún(a) profesional de la salud le ha dicho que usted tiene: otra enfermedad?,Numérico,3
+186,p40_1,¿Conoce los siguientes programas de salud que el gobierno mexicano tiene para las personas migrantes: Ventanillas de Salud?,Numérico,3
+187,p40_2,"¿Conoce los siguientes programas de salud que el gobierno mexicano tiene para las personas migrantes: Vete Sano, Regresa Sano?",Numérico,3
+188,p40_3,¿Conoce los siguientes programas de salud que el gobierno mexicano tiene para las personas migrantes: Asistencia a repatriados enfermos?,Numérico,3
+189,lug_des,Lugar de destino,Numérico,3
+190,estrato,Estrato (region-ciudad-punto-turno),Numérico,10
+191,upm,Unidad Primaria de Muestreo (estrato-unidad),Numérico,10
+192,filtro,Desplazamientos migratorios,Numérico,3
+193,ponfin3,Ponderador de la base,Numérico,12
+194,t2mp1,"Antes de hacer este viaje, ¿se informó usted sobre los riesgos a los que se expone al intentar cruzar la frontera con Estados Unidos?",Numérico,3
+195,t2mp1_1_1,¿Quién le proporcionó dicha información? Por cuenta propia,Numérico,3
+196,t2mp1_1_2,¿Quién le proporcionó dicha información? Amigos y/o familiares,Numérico,3
+197,t2mp1_1_3,¿Quién le proporcionó dicha información? Organización gubernamental,Numérico,3
+198,t2mp1_1_4,¿Quién le proporcionó dicha información? Organización no gubernamental,Numérico,3
+199,t2mp1_1_5,¿Quién le proporcionó dicha información? Otros,Numérico,3
+200,t2mp1_2_1,¿Por cuál(es) medios se enteró? Televisión,Numérico,3
+201,t2mp1_2_2,¿Por cuál(es) medios se enteró? Radio,Numérico,3
+202,t2mp1_2_3,"¿Por cuál(es) medios se enteró? Prensa (periódicos, revistas, etc.)",Numérico,3
+203,t2mp1_2_4,"¿Por cuál(es) medios se enteró? Redes sociales (Facebook, Twitter, etc.)",Numérico,3
+204,t2mp1_2_5,¿Por cuál(es) medios se enteró? Otros medios,Numérico,3
+205,t2mp1_3,¿Con esta información ha tomado mayores precauciones en su viaje?,Numérico,3
+206,t2mp2,¿Sabe usted que el gobierno de México proporciona servicios de protección y asistencia en Estados Unidos a través de sus consulados?,Numérico,3
